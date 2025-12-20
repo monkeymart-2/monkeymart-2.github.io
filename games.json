@@ -3,5 +3,20 @@
         "name": "Monkey Mart",
         "slug": "monkey-mart",
         "image": "/cache/data/image/game/monkey-mart/monkeymartgame-m186x186.webp"
+    },
+    {
+        "name": "Obby: Grow a Garden!",
+        "slug": "obby-grow-a-garden",
+        "image": "/cache/data/image/game/obby-grow-a-garden/obby-grow-a-garden-m186x186.webp"
+    },
+    {
+        "name": "Toca World Restaurant",
+        "slug": "toca-world-restaurant",
+        "image": "/cache/data/image/game/toca-world-restaurant/toca-world-restaurant-m186x186.webp"
+    },
+    {
+        "name": "Rocket Fortress",
+        "slug": "rocket-fortress",
+        "image": "/cache/data/image/game/rocket-fortress/rocket-fortress-m186x186.webp"
     }
 ]
